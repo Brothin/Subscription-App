@@ -56,17 +56,19 @@ npm install
 npm start
 ```
 
+## Admin credentials:
 ```
-Admin credentials:
 id:admin@gmail.com
 pw:admin123
+```
 
-Super Admin credentials:
+## Super Admin credentials:
+```
 id:superadmin@gmail.com
 pw:superadmin
 ```
 
-Tech Stack Used:
+## Tech Stack Used:
 - React JS
 - Material UI
 - Node JS
